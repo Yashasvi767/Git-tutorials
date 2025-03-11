@@ -1,0 +1,4 @@
+BASIC GIT COMMANDS
+
+to push a repo- 
+to pull a repo-
